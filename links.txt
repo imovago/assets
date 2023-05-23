@@ -4,48 +4,57 @@ https://ricardojosino.github.io/website-library
 
 
 Imóveis:
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-01.jpg
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-02.jpg
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-03.jpg
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-04.jpg
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-05.jpg
-https://ricardojosino.github.io/website-library/images/imoveis/imovel-06.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/01.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/02.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/03.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/04.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/05.jpg
+https://ricardojosino.github.io/website-library/images/house/4.3/06.jpg
 
 Interiores:
-https://ricardojosino.github.io/website-library/images/interiores/interior-01.jpg
-https://ricardojosino.github.io/website-library/images/interiores/interior-02.jpg
-https://ricardojosino.github.io/website-library/images/interiores/interior-03.jpg
-https://ricardojosino.github.io/website-library/images/interiores/interior-04.jpg
-https://ricardojosino.github.io/website-library/images/interiores/interior-05.jpg
-https://ricardojosino.github.io/website-library/images/interiores/interior-06.jpg
-
-Posts:
-https://ricardojosino.github.io/website-library/images/posts/post-01.jpg
-https://ricardojosino.github.io/website-library/images/posts/post-02.jpg
-https://ricardojosino.github.io/website-library/images/posts/post-03.jpg
-https://ricardojosino.github.io/website-library/images/posts/post-04.jpg
-https://ricardojosino.github.io/website-library/images/posts/post-05.jpg
-https://ricardojosino.github.io/website-library/images/posts/post-06.jpg
-
-Retratos homem:
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-01.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-02.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-03.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-04.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-05.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-homem-06.jpg
-
-Retratos mulher:
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-01.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-02.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-03.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-04.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-05.jpg
-https://ricardojosino.github.io/website-library/images/retratos/retrato-mulher-06.jpg
-
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/01.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/02.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/03.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/04.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/05.jpg
+https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/06.jpg
 
 Logos
-https://ricardojosino.github.io/website-library/images/logos/imobiliaria-01.svg
+https://ricardojosino.github.io/website-library/images/logos/svg/real-state/01.svg
+
+
+Retratos homem:
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/01.jpg
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/02.jpg
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/03.jpg
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/04.jpg
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/05.jpg
+https://ricardojosino.github.io/website-library/images/portraits/man/1.1/06.jpg
+
+Retratos mulher:
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/01.jpg
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/02.jpg
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/03.jpg
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/04.jpg
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/05.jpg
+https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/06.jpg
+
+Posts:
+https://ricardojosino.github.io/website-library/images/posts/4.3/01.jpg
+https://ricardojosino.github.io/website-library/images/posts/4.3/02.jpg
+https://ricardojosino.github.io/website-library/images/posts/4.3/03.jpg
+https://ricardojosino.github.io/website-library/images/posts/4.3/04.jpg
+https://ricardojosino.github.io/website-library/images/posts/4.3/05.jpg
+https://ricardojosino.github.io/website-library/images/posts/4.3/06.jpg
+
+
+Slides:
+https://ricardojosino.github.io/website-library/images/slides/1920.580/01.jpg
+https://ricardojosino.github.io/website-library/images/slides/1920.580/02.jpg
+https://ricardojosino.github.io/website-library/images/slides/1920.580/03.jpg
+https://ricardojosino.github.io/website-library/images/slides/1920.580/04.jpg
+https://ricardojosino.github.io/website-library/images/slides/1920.580/05.jpg
+https://ricardojosino.github.io/website-library/images/slides/1920.580/06.jpg
 
 
 
