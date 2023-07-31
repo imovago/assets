@@ -1,66 +1,69 @@
 
 URL principal:
-https://ricardojosino.github.io/website-library
+https://imovago.github.io/assets
+
+URL dos links:
+https://imovago.github.io/assets/links.txt
 
 
 Imóveis:
-https://ricardojosino.github.io/website-library/images/house/4.3/01.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/02.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/03.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/04.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/05.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/06.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/07.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/08.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/09.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/10.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/11.jpg
-https://ricardojosino.github.io/website-library/images/house/4.3/12.jpg
+https://imovago.github.io/assets/images/house/4.3/01.jpg
+https://imovago.github.io/assets/images/house/4.3/02.jpg
+https://imovago.github.io/assets/images/house/4.3/03.jpg
+https://imovago.github.io/assets/images/house/4.3/04.jpg
+https://imovago.github.io/assets/images/house/4.3/05.jpg
+https://imovago.github.io/assets/images/house/4.3/06.jpg
+https://imovago.github.io/assets/images/house/4.3/07.jpg
+https://imovago.github.io/assets/images/house/4.3/08.jpg
+https://imovago.github.io/assets/images/house/4.3/09.jpg
+https://imovago.github.io/assets/images/house/4.3/10.jpg
+https://imovago.github.io/assets/images/house/4.3/11.jpg
+https://imovago.github.io/assets/images/house/4.3/12.jpg
 
 Interiores:
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/01.jpg
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/02.jpg
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/03.jpg
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/04.jpg
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/05.jpg
-https://ricardojosino.github.io/website-library/images/interior-of-the-house/4.3/06.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/01.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/02.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/03.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/04.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/05.jpg
+https://imovago.github.io/assets/images/interior-of-the-house/4.3/06.jpg
 
 Logos
-https://ricardojosino.github.io/website-library/images/logos/svg/real-state/01.svg
+https://imovago.github.io/assets/images/logos/svg/real-state/01.svg
 
 
 Retratos homem:
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/01.jpg
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/02.jpg
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/03.jpg
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/04.jpg
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/05.jpg
-https://ricardojosino.github.io/website-library/images/portraits/man/1.1/06.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/01.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/02.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/03.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/04.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/05.jpg
+https://imovago.github.io/assets/images/portraits/man/1.1/06.jpg
 
 Retratos mulher:
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/01.jpg
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/02.jpg
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/03.jpg
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/04.jpg
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/05.jpg
-https://ricardojosino.github.io/website-library/images/portraits/woman/1.1/06.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/01.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/02.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/03.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/04.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/05.jpg
+https://imovago.github.io/assets/images/portraits/woman/1.1/06.jpg
 
 Posts:
-https://ricardojosino.github.io/website-library/images/posts/4.3/01.jpg
-https://ricardojosino.github.io/website-library/images/posts/4.3/02.jpg
-https://ricardojosino.github.io/website-library/images/posts/4.3/03.jpg
-https://ricardojosino.github.io/website-library/images/posts/4.3/04.jpg
-https://ricardojosino.github.io/website-library/images/posts/4.3/05.jpg
-https://ricardojosino.github.io/website-library/images/posts/4.3/06.jpg
+https://imovago.github.io/assets/images/posts/4.3/01.jpg
+https://imovago.github.io/assets/images/posts/4.3/02.jpg
+https://imovago.github.io/assets/images/posts/4.3/03.jpg
+https://imovago.github.io/assets/images/posts/4.3/04.jpg
+https://imovago.github.io/assets/images/posts/4.3/05.jpg
+https://imovago.github.io/assets/images/posts/4.3/06.jpg
 
 
 Slides:
-https://ricardojosino.github.io/website-library/images/slides/1920.580/01.jpg
-https://ricardojosino.github.io/website-library/images/slides/1920.580/02.jpg
-https://ricardojosino.github.io/website-library/images/slides/1920.580/03.jpg
-https://ricardojosino.github.io/website-library/images/slides/1920.580/04.jpg
-https://ricardojosino.github.io/website-library/images/slides/1920.580/05.jpg
-https://ricardojosino.github.io/website-library/images/slides/1920.580/06.jpg
+https://imovago.github.io/assets/images/slides/1920.580/01.jpg
+https://imovago.github.io/assets/images/slides/1920.580/02.jpg
+https://imovago.github.io/assets/images/slides/1920.580/03.jpg
+https://imovago.github.io/assets/images/slides/1920.580/04.jpg
+https://imovago.github.io/assets/images/slides/1920.580/05.jpg
+https://imovago.github.io/assets/images/slides/1920.580/06.jpg
 
 
 
